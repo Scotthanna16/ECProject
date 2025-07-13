@@ -1,4 +1,2 @@
 Repository for Edge Computing Project: "Pedestrian Detection using V2V Communication"
-These files require the use of the CARLA simulator to run.
-Also, if you are an employer there are a few repositories which are not open to the public at request of my professors, 
-I can grant access if requested.
+This was a semester long project for my Edge Computing class. I'm sure many are surprised I did not do something related to quant finance, however I was inspired by a tragedy that happened on our campus when a student was struck by a car after walking out from behind another car. I was interested in exploring if it was possible for two cars to communicate the position of a pedestrian one car may not be able to detect. To explore this I used the CARLA simulator. Downloading and using the CARLA simulator was not as easy as I hoped, in fact I spent a lot of time testing which versions worked best for this project. Ultimately I was able to create some python scripts that could be used to simulate pedestrian sensing in different conditions. My final paper is in the repository. 
